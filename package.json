@@ -4,6 +4,7 @@
     "description": "The official Diamon Language Support",
     "version": "0.0.1",
     "publisher": "Ceaser",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.28.0"
     },
